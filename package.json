@@ -1,0 +1,36 @@
+{
+  "name": "fm",
+  "version": "1.0.0",
+  "description": "FNiX.iR File Manager",
+  "author": "Foad Nikoukar",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
+    "build": "nuxt build",
+    "start": "cross-env NODE_ENV=production node server/index.js",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.8.0",
+    "axios": "^0.19.1",
+    "babel-polyfill": "^6.26.0",
+    "body-parser": "^1.19.0",
+    "codemirror": "^5.50.2",
+    "cors": "^2.8.5",
+    "cropperjs": "^1.5.6",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.6",
+    "fs-extra": "^8.1.0",
+    "image-thumbnail": "^1.0.6",
+    "jsonwebtoken": "^8.5.1",
+    "node-sass": "^4.13.0",
+    "nuxt": "^2.0.0",
+    "plyr": "^3.5.6",
+    "vue-codemirror": "^4.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "sass-loader": "8.0.1"
+  }
+}
