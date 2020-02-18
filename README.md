@@ -26,4 +26,4 @@ $ npm run start
 
 Added Login page with jwt authentication.
 
-Default username & password : FNiX.iiR
+Default username & password : FNiX.iR
