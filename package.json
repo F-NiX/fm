@@ -19,7 +19,7 @@
     "cors": "^2.8.5",
     "cropperjs": "^1.5.6",
     "cross-env": "^5.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-fileupload": "^1.1.6",
     "fs-extra": "^8.1.0",
     "image-thumbnail": "^1.0.6",
