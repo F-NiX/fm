@@ -23,7 +23,7 @@
     "express-fileupload": "^1.1.6",
     "fs-extra": "^8.1.0",
     "image-thumbnail": "^1.0.6",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "node-sass": "^4.13.0",
     "nuxt": "^2.0.0",
     "plyr": "^3.5.6",
